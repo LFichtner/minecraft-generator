@@ -1,0 +1,4 @@
+name: minecraftHothGenerator
+main: com.minecraft.hothGenerator.foobar
+version: 0.0.1
+commands:
