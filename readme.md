@@ -1,6 +1,5 @@
 ## Work Still in Progress
 
-# Minecraft Ice World Generator
+# Minecraft World Generator
 
-Trying to migrate the hothGenerator from "orgin" ont https://github.com/orgin/hothgenerator to the new Mincraft version.
-Working with Java 8.
+Working on an world generator, but not even sure what it´s about
